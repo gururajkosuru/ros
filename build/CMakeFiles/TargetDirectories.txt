@@ -1,0 +1,16 @@
+/home/naaima/Downloads/CMC/bangalore/map_to_coord/build/CMakeFiles/ROSBUILD_genmsg_cpp.dir
+/home/naaima/Downloads/CMC/bangalore/map_to_coord/build/CMakeFiles/ROSBUILD_genmsg_lisp.dir
+/home/naaima/Downloads/CMC/bangalore/map_to_coord/build/CMakeFiles/ROSBUILD_gensrv_cpp.dir
+/home/naaima/Downloads/CMC/bangalore/map_to_coord/build/CMakeFiles/ROSBUILD_gensrv_lisp.dir
+/home/naaima/Downloads/CMC/bangalore/map_to_coord/build/CMakeFiles/clean-test-results.dir
+/home/naaima/Downloads/CMC/bangalore/map_to_coord/build/CMakeFiles/example.dir
+/home/naaima/Downloads/CMC/bangalore/map_to_coord/build/CMakeFiles/rosbuild_precompile.dir
+/home/naaima/Downloads/CMC/bangalore/map_to_coord/build/CMakeFiles/rosbuild_premsgsrvgen.dir
+/home/naaima/Downloads/CMC/bangalore/map_to_coord/build/CMakeFiles/rospack_genmsg.dir
+/home/naaima/Downloads/CMC/bangalore/map_to_coord/build/CMakeFiles/rospack_genmsg_libexe.dir
+/home/naaima/Downloads/CMC/bangalore/map_to_coord/build/CMakeFiles/rospack_gensrv.dir
+/home/naaima/Downloads/CMC/bangalore/map_to_coord/build/CMakeFiles/test.dir
+/home/naaima/Downloads/CMC/bangalore/map_to_coord/build/CMakeFiles/test-future.dir
+/home/naaima/Downloads/CMC/bangalore/map_to_coord/build/CMakeFiles/test-results.dir
+/home/naaima/Downloads/CMC/bangalore/map_to_coord/build/CMakeFiles/test-results-run.dir
+/home/naaima/Downloads/CMC/bangalore/map_to_coord/build/CMakeFiles/tests.dir
