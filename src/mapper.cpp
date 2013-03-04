@@ -5,7 +5,14 @@
 #include <highgui.h>
 #include "geometry_msgs/Pose.h"
 #include "geometry_msgs/Point.h"
-
+/**
+ *This code primarily functions as a wrapper to enable an click based UI for allowing the user to find coordinates of the map from a global framework
+ * by clicking at coordinates in the map.
+ * This code gets the map as a service and takes in the data and the metadata using which it displays the map and also uses for conversion.
+ *
+ * This code has been developed by Gururaj (gururaj.kosuru@gmail.com) and is a wrapper code which will be freely available for both research and
+ * commercial usage from github.com
+ */
 using namespace std;
 using namespace cv;
 Mat displayData;
